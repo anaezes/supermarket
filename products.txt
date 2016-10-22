@@ -1,0 +1,24 @@
+23
+laranja ; 1.5
+banana ; 1.2
+uvas ; 2
+morangos ; 1.5
+azeitonas ; 1
+peixe ; 5.6
+carne ; 4.5
+ovos ; 0.7
+massa ; 0.8
+arroz ; 1
+batatas fritas ; 0.4
+iogurte ; 0.5
+queijo ; 2
+presunto ; 3
+pao ; 0.1
+bolo ; 1.5
+bolachas ; 1.5
+pipocas ; 0.7
+chocolate ; 1
+lasanha ; 3.5
+agua ; 0.3
+sumo ; 0.8
+vinho ; 2.5
